@@ -1,0 +1,74 @@
+.container {
+    text-align: center;
+}
+
+.containerWithMargin {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.titleContainer {
+    padding: 10px 0;
+}
+
+.subtitleContainer {
+    background-color: cornflowerblue;
+    text-align: left;
+    padding: 0 10px;
+    font-size: 16px;
+    color: white;
+    font-weight: normal;
+}
+
+/*.buttons {
+    margin-top: 20px;
+    width: 100px;
+}*/
+
+.paragraph {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.instruction {
+    padding: 10px 0 5px 0;
+    font-weight: bolder;
+}
+
+.buttonOnRight {
+    right: 120px;
+    width: 100px;
+    position: absolute;
+}
+
+.surveyQuestionsContainer {
+    padding-bottom: 20px;
+}
+
+.surveyQuestions {
+    font-weight: bolder;
+}
+
+.surveryChoicesContainer {
+    padding-left: 20px;
+}
+
+.questionWarningText {
+    color: red;
+    font-size: 12px;
+    position: relative;
+    top: 5px;
+}
